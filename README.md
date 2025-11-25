@@ -37,6 +37,3 @@ License
 Feel free to use, modify, and distribute this project for educational purposes.
 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page or submit pull requests.
-
-📧 Contact
-For questions or suggestions, feel free to reach out!
